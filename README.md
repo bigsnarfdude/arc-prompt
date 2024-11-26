@@ -1,4 +1,4 @@
-# ARC prompt collection (Abstraction and Reasoning Corpus)
+WIP try on SFT solvers # ARC prompt collection (Abstraction and Reasoning Corpus)
 
 Prompts for solving ARC tasks with GPT4 or similar.
 
